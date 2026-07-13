@@ -1,0 +1,4 @@
+tkinter
+pubchempy
+rdkit-pypi
+Pillow
