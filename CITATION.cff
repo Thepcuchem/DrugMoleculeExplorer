@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Drug Molecule Explorer"
+version: 0.1.0
+date-released: 2026-07-07
+authors:
+  - family-names: Hong
+    given-names: Jiyeon
+  - family-names: Lerttanakit
+    given-names: Pisit
+  - family-names: Sompornpisut
+    given-names: Pornthep
+license: MIT
