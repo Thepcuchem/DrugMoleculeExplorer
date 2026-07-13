@@ -1,7 +1,11 @@
 cff-version: 1.2.0
 title: "Drug Molecule Explorer"
-version: 0.1.0
-date-released: 2026-07-07
+version: "1.0.1"
+date-released: 2026-07-13
+doi: 10.5281/zenodo.21336829
+repository-code: "https://github.com/Thepcuchem/DrugMoleculeExplorer"
+url: "https://github.com/Thepcuchem/DrugMoleculeExplorer"
+license: MIT
 authors:
   - family-names: Hong
     given-names: Jiyeon
@@ -9,4 +13,3 @@ authors:
     given-names: Pisit
   - family-names: Sompornpisut
     given-names: Pornthep
-license: MIT

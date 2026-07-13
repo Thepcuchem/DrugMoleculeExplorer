@@ -1,6 +1,7 @@
 # Drug Molecule Explorer
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21336829.svg)](https://doi.org/10.5281/zenodo.21336829)
 
-A desktop Tkinter application for searching small molecules, inspecting chemical structures, viewing 3D models, calculating drug-like descriptors, and comparing similar compounds.
+A User-Friendly Desktop Application for Interactive Small-Molecule Exploration
 
 ## Contents
 - `DME.py` — main application source code
